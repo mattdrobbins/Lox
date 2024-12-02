@@ -1,0 +1,14 @@
+C:\Users\mattd\OneDrive\Desktop\AST\bin\Debug\net8.0\AST.exe
+C:\Users\mattd\OneDrive\Desktop\AST\bin\Debug\net8.0\AST.deps.json
+C:\Users\mattd\OneDrive\Desktop\AST\bin\Debug\net8.0\AST.runtimeconfig.json
+C:\Users\mattd\OneDrive\Desktop\AST\bin\Debug\net8.0\AST.dll
+C:\Users\mattd\OneDrive\Desktop\AST\bin\Debug\net8.0\AST.pdb
+C:\Users\mattd\OneDrive\Desktop\AST\obj\Debug\net8.0\AST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattd\OneDrive\Desktop\AST\obj\Debug\net8.0\AST.AssemblyInfoInputs.cache
+C:\Users\mattd\OneDrive\Desktop\AST\obj\Debug\net8.0\AST.AssemblyInfo.cs
+C:\Users\mattd\OneDrive\Desktop\AST\obj\Debug\net8.0\AST.csproj.CoreCompileInputs.cache
+C:\Users\mattd\OneDrive\Desktop\AST\obj\Debug\net8.0\AST.dll
+C:\Users\mattd\OneDrive\Desktop\AST\obj\Debug\net8.0\refint\AST.dll
+C:\Users\mattd\OneDrive\Desktop\AST\obj\Debug\net8.0\AST.pdb
+C:\Users\mattd\OneDrive\Desktop\AST\obj\Debug\net8.0\AST.genruntimeconfig.cache
+C:\Users\mattd\OneDrive\Desktop\AST\obj\Debug\net8.0\ref\AST.dll
